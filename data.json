@@ -1,0 +1,29 @@
+{
+  "monthly_budget": 10000.0,
+  "expenses": [
+    {
+      "amount": 210.01,
+      "category": "Travel",
+      "description": "lunch",
+      "date": "2026-09-12"
+    },
+    {
+      "amount": 210.01,
+      "category": "Food",
+      "description": "lunch",
+      "date": "2026-09-12"
+    },
+    {
+      "amount": 210.01,
+      "category": "Food",
+      "description": "lunch",
+      "date": "2026-09-12"
+    },
+    {
+      "amount": 230.01,
+      "category": "Other",
+      "description": "dinnwe",
+      "date": "2026-09-12"
+    }
+  ]
+}
